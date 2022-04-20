@@ -1,0 +1,46 @@
+.header-container {
+  background-color: black;
+  height: 100px;
+  margin: 50px;
+  flex: 1;
+  
+  .header-title-box {
+    flex:3;
+    background-color: black;
+    flex-direction: column;
+    
+    h1 {
+      display: flex;
+      font-size:36px;
+      margin-top:40px;
+      color: greenyellow;
+      justify-self: center;
+      align-items: center;
+      justify-content: center;
+    }
+
+    p {
+      text-align: center;
+      color: greenyellow;
+    }
+  }
+
+  nav {
+    display: flex;
+    flex-direction: row;
+
+    
+    button {
+      flex:1;
+      background-color: #EF27A6;
+      border-radius: 10px;
+      margin:10px 10px 0 10px;
+      cursor: pointer;
+      :hover {
+        
+        background-color: blue;
+      }
+    }
+  }
+
+}
