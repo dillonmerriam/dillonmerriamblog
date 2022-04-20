@@ -11,6 +11,14 @@ export const Bio = () => {
         with experience in using various technologies such as (but not limited to)
         HTML, CSS, Javascript, React, Node, SQL, MongoDB, Next, Gatsby, and Preact!
         </p>
+        <nav>
+          <a href="https://twitter.com/g1itchw0lf" target="_blank">
+            <img src={require('../../assets/twitterLogo.png')} />
+          </a>
+          <a href="https://github.com/dillonmerriam" target="_blank">
+            <img src={require('../../assets/githubLogo.png')} />
+          </a>
+        </nav>
         
     </div>
   )

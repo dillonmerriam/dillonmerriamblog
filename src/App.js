@@ -1,5 +1,5 @@
 import './App.scss';
-import {  Header, Bio, Content } from './components/index.js'
+import {  Header, Bio, Contact } from './components/index.js'
 
 
 function App() {
@@ -8,7 +8,7 @@ function App() {
       
       <Header />
       <div className="profileContentWrapper">
-        <Content />
+        <Contact />
         <Bio />
       </div>
     </div>

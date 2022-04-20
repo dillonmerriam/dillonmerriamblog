@@ -10,17 +10,7 @@ export const Header = () => {
         </h1>
         <p>Frontend Web Developer</p>
       </div>
-      <nav>
-        <a href="https://github.com/dillonmerriam">
-          <button>Github</button>
-        </a>
-        <a href="https://twitter.com/g1itchw0lf">
-          <button>Twitter</button>
-        </a>
-        <button>Blog</button>
-        <button>About</button>
-        <button>Contact</button>
-      </nav>
+
     </div>
   )
 }
