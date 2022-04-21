@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/dillonmerriamblog/static/css/main.a176ac12.css",
+    "main.js": "/dillonmerriamblog/static/js/main.03115682.js",
+    "static/media/background.gif": "/dillonmerriamblog/static/media/background.0f11fa9b211e4b1a821f.gif",
+    "static/media/ProfPic.jpg": "/dillonmerriamblog/static/media/ProfPic.86f7bf87aafa3bfada77.jpg",
+    "static/media/githubLogo.png": "/dillonmerriamblog/static/media/githubLogo.237e2214562c441f67b2.png",
+    "static/media/reactJS.jpg": "/dillonmerriamblog/static/media/reactJS.be93be9954fbd6145d8d.jpg",
+    "static/media/twitterLogo.png": "/dillonmerriamblog/static/media/twitterLogo.57573394db94634d7e1f.png",
+    "index.html": "/dillonmerriamblog/index.html",
+    "main.a176ac12.css.map": "/dillonmerriamblog/static/css/main.a176ac12.css.map",
+    "main.03115682.js.map": "/dillonmerriamblog/static/js/main.03115682.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a176ac12.css",
+    "static/js/main.03115682.js"
+  ]
+}
