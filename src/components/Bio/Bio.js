@@ -4,12 +4,10 @@ import './bio.scss'
 export const Bio = () => {
   return (
     <div className='bio-container'>
-      <h1 id='title'>
-        About
-      </h1>
+
       
 
-        <img src={require('../../assets/ProfPic.jpg')} id='profile-pic'/>
+      <img src={require('../../assets/ProfPic.jpg')} id='profile-pic'/>
 
       <p>Los Angeles, Ca</p>
       <div className='techLogos'>

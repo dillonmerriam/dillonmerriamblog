@@ -1,16 +1,16 @@
 .contact-container {
-  
+
   height:fit-content;
-  width: 100%;
+  width: 80%;
   flex:6;
-  padding-bottom: 400px;
+  padding-bottom: 200px;
   
   
   
   
 
   h1 {
-    display: table;
+    
     margin: 0 auto;
     font-size: 36pt;
     color: #D23EFF;
@@ -32,7 +32,7 @@
       textarea {
         background-color: white;
         width: 75%;
-        height: 100px;
+        height: 75%;
         padding: 20px;
       }
     }
@@ -41,6 +41,10 @@
       flex:1;
       text-align: center;
       padding-left:50px;
+
+      input {
+        width: 75%;
+      }
       form {
         label {
           color: #D23EFF;
