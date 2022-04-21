@@ -1,9 +1,12 @@
 .bio-container {
   flex:1;
-  height: 242.2px;
+  height: 100%;
   justify-self: flex-end;
+  position: sticky;
   
-  
+  h1 {
+    color: greenyellow;
+  }
   
   
   img {

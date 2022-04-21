@@ -4,7 +4,7 @@ import './contact.scss'
 export const Contact = () => {
   return (
     <div className='contact-container' id='contact'>
-      <span>Contact</span>
+      <h1>Contact</h1>
       <div className='contact-form'>
         <div className='user-message'>
           <textarea type="text" id="message" name="message" cols="50" rows="10"/>

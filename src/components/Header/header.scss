@@ -1,7 +1,9 @@
 .header-container {
+  text-align: center;
+  margin: 0 auto;
   background-image: linear-gradient(#791E94, #D23EFF);
   height: 75px;
-  margin: 50px 50px 50px 50px;
+  width: 80vw;
   flex: 1;
   
   .header-title-box {

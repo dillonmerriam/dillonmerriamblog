@@ -3,14 +3,20 @@
   
   
   
-  .profileContentWrapper {
+  .wrapper {
     display: inline-flex;
     align-content: center;
     position: relative;
+    
     margin: 0 auto;
     width:80vw;
-    height: 100vh;
+    height: 100%;
     background-color: black;
+
+    .content-wrapper {
+      flex:4;
+      margin-right: 50px;
+    }
   }
 }
 
