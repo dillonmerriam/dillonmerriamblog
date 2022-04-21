@@ -1,10 +1,15 @@
 .header-container {
   text-align: center;
   margin: 0 auto;
-  background-image: linear-gradient(#791E94, #D23EFF);
+  background-image: linear-gradient(#0B11C6, #000000);
   height: 75px;
   width: 80vw;
+  min-width: 300px;
   flex: 1;
+  border-bottom: solid;
+  border-color: grey;
+  border-width: 1px;
+  
   
   .header-title-box {
     flex:3;

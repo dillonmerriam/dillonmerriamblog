@@ -1,8 +1,10 @@
 .App {
   text-align: center;
-  
-  
-  
+  margin: 0 auto;
+  height: fit-content;
+  background-color: black;
+  width:80vw;
+  margin-bottom: 50px;
   .wrapper {
     display: inline-flex;
     align-content: center;
@@ -16,6 +18,11 @@
     .content-wrapper {
       flex:4;
       margin-right: 50px;
+    }
+
+    .bio-wrapper {
+      flex: 1;
+      margin: 25px;
     }
   }
 }
